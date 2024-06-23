@@ -18,7 +18,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Analysing Idle-tokens.","Here to analyse idle-tokens."];
+const statusMessages = ["funny","hello"];
 
 
 let currentIndex = 0;
